@@ -7,8 +7,7 @@ body {
       padding: 0;
       box-sizing: border-box;
       font-family: 'Work Sans', sans-serif;
-
-      background-image : url("/GoodPlaneFun/images/landingPageBackgrond.jpg");  /* Location of the image */
+      background-image : url("images/landingPageBackgrond.jpg");  /* Location of the image */
       background-position: center center; /* Background image is centered vertically and horizontally at all times */
       background-repeat: no-repeat; /* Background image doesn't tile */
       background-attachment: fixed; /* Background image is fixed in the viewport so that it doesn't move when  the content's height is greater than the image's height */
